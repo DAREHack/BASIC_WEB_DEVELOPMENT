@@ -1,0 +1,50 @@
+.border{
+    border: 2px solid #feda6a;
+    margin-top: 20px;
+    margin:5px;
+    margin-right: 1200px;
+    border-radius: 10px;
+    margin-left: 300px;
+    margin-right: 400px;
+    height: 1000px;
+    width: 800px;
+    background-color: rgb(14, 16, 16);
+    background-color: #d4d4dc;
+    background-size: cover;
+    text-align: center;
+    
+    
+}
+header{
+
+    padding-top: 20px;
+    color: #3d3d3f;
+}
+p{
+    text-align: right;
+    padding-right: 20px;
+    color: brown;
+}
+.details{
+    text-align: center;
+    padding-left: 20px;
+    font-size: 20px;
+}
+input{
+    background-color: transparent;
+    box-sizing: border-box;
+    border-radius: 10;
+    text-align: center;
+    box-sizing: content-box;
+    padding: 10px;
+    margin-left:10px;
+    color: blue;
+}
+button{
+    width: 300px;
+    height: 50px
+}
+.login{
+    
+    background-color: transparent;
+}
